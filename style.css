@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    width: 100%;
+    background: linear-gradient(to right, rgba(0,0,0,0.5) 40%, rgb(0, 255, 25, 0.5 )), url(tech.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 109vh;
+}
+
+.nav{
+    width: 95%;
+    height: 75px;
+    margin: auto;
+}
+.icon{
+    width: 300px;
+    float: left;
+    height: 70px
+}
+.logo_name{
+    padding-left: 0px;
+    padding-top: 15px;
+    float: left;
+    font-size: 50px;
+    font-family: sans-serif;
+    font-weight: bold;
+    
+}
+
+.name1{
+    color: White
+}
+.name2{
+    color: cyan;
+}
