@@ -21,13 +21,13 @@
     height: 70px
 }
 .logo_name{
-    padding-left: 0px;
+    padding-left: 15px;
     padding-top: 15px;
     float: left;
-    font-size: 50px;
-    font-family: sans-serif;
-    font-weight: bold;
-    
+}
+
+img{
+    width: 150px;
 }
 
 .name1{
@@ -46,10 +46,10 @@ ul{
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: 35px;
+    margin-top: 70px;
 }
 ul li{
-    margin-left: 90px;
+    margin-left: 70px;
     list-style: none;
     font-size: 16px;
 }
@@ -63,6 +63,6 @@ ul li a{
 } 
 
 ul li a:hover{
-    color: cyan;
+    color: rgb(245, 169, 7);
 
 }
